@@ -53,6 +53,8 @@
 2. Ingresar `backend` en `Profile name`.
 3. Clic en `Create`.
 
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph).
+
 Repositorio hecho en base al material de [NODE JS desde cero | Curso tutorial completo gratis con Express, Mongo, PostgreSQL, Docker y más](https://www.youtube.com/watch?v=I17ln313Pjk).
 
 Agradece al colega Sergie Code el Ing. Andres Chaparro.
