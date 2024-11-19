@@ -1,0 +1,12 @@
+{
+  "name": "proyecto-node",
+  "version": "0.0.1",
+  "description": "Proyecto Node",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "console": "echo Hola Mundo desde Scripts"
+  },
+  "author": "Ing. Andrés Chaparro",
+  "license": "ISC"
+}

@@ -41,7 +41,7 @@
 - [yargs](https://www.npmjs.com/package/yargs).
 - [cron](https://www.npmjs.com/package/cron).
 - [json-server](https://www.npmjs.com/package/json-server).
-- [dot-env](https://www.npmjs.com/package/dotenv).
+- [dotenv](https://www.npmjs.com/package/dotenv).
 - [env-var](https://www.npmjs.com/package/env-var).
 - [nodemailer](https://www.npmjs.com/package/nodemailer).
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs).
